@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **MERN STACK and Data Structures and Algorithms.**
 
-- 📫 How to reach me **https://www.linkedin.com/in/nitin-gupta9119/**
+- 📫 How to reach me <p><a href="https://www.linkedin.com/in/nitin-gupta9119/">LinkeDin Profile</a></p>
 
 - ⚡ Fun fact ** Love to travel and running.**
 
