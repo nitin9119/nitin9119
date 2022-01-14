@@ -27,8 +27,9 @@
 </p>
 
 <h3><i>Let's Connect !!<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100" /></i></h3>
-<a target="_blank" href="https://twitter.com/NitinGu32294682" target="_blank"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter" width="50"></a>
-<a target="_blank" href="https://linkedin.com/in/nitin-gupta9119" target="_blank"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin" width="50" /></a>
+<a href="https://twitter.com/NitinGu32294682" target="_blank"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter" width="50"></a>
+<a href="https://linkedin.com/in/nitin-gupta9119" target="_blank"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin" width="50" /></a>
+<a href="Mailto:nitin.gupta018@gmail.com" target="_blank"><img src="https://img.icons8.com/color/96/000000/gmail-new.png" width="50" /></a>
 
 <br/>
 
